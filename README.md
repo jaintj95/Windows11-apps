@@ -14,3 +14,4 @@ All essential apps to be installed on a fresh copy of Windows 10
 11) [EasyJoin](https://easyjoin.net/)
 12) [Caffeine](http://www.zhornsoftware.co.uk/caffeine/index.html)
 13) [DevDocs](https://github.com/egoist/devdocs-desktop)
+14) [Modern File Explorer](https://github.com/files-community/Files)
