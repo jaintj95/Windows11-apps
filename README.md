@@ -15,3 +15,4 @@ All essential apps to be installed on a fresh copy of Windows 10
 12) [Caffeine](http://www.zhornsoftware.co.uk/caffeine/index.html)
 13) [DevDocs](https://github.com/egoist/devdocs-desktop)
 14) [Modern File Explorer](https://github.com/files-community/Files)
+15) [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
