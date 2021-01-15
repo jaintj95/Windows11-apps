@@ -16,3 +16,6 @@ All essential apps to be installed on a fresh copy of Windows 10
 13) [DevDocs](https://github.com/egoist/devdocs-desktop)
 14) [Modern File Explorer](https://github.com/files-community/Files)
 15) [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
+
+
+### This is just a list of tools that I personally use. For more, check out [Scott Hanselman's list of Ultimate Tools for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
