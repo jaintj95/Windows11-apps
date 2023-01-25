@@ -1,21 +1,20 @@
-# Windows10-apps
-All essential apps to be installed on a fresh copy of Windows 10
+# Windows11-apps
+All essential apps to be installed on a fresh copy of Windows 11
 
-1) [Microsoft PowerToys](https://github.com/microsoft/PowerToys/)  
-2) [Twinkle Tray Brightness Control](https://github.com/xanderfrangos/twinkle-tray)  
-3) [EarTrumpet Audio Control](https://github.com/File-New-Project/EarTrumpet)  
-4) [Freedom](https://freedom.to/)
-5) [FreeTube - Privacy Preserving YouTube](https://github.com/FreeTubeApp/FreeTube)
-6) [Raindrop Bookmark Manager](https://raindrop.io/)
-7) [YouTube Music Desktop](https://ytmdesktop.app/)
-8) [Bitwarden Password Manager](https://bitwarden.com/)
-9) [Calibre eBook reader](https://calibre-ebook.com/)
-10) [Send Anywhere](https://send-anywhere.com/)
-11) [EasyJoin](https://easyjoin.net/)
-12) [Caffeine](http://www.zhornsoftware.co.uk/caffeine/index.html)
-13) [DevDocs](https://github.com/egoist/devdocs-desktop)
-14) [Modern File Explorer](https://github.com/files-community/Files)
-15) [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
 
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys/)  
+* [Twinkle Tray Brightness Control](https://github.com/xanderfrangos/twinkle-tray)  
+* [EarTrumpet Audio Control](https://github.com/File-New-Project/EarTrumpet)  
+* [Freedom](https://freedom.to/)
+* [FreeTube - Privacy Preserving YouTube](https://github.com/FreeTubeApp/FreeTube)
+* [YouTube Music Desktop](https://ytmdesktop.app/)
+* [Calibre eBook reader](https://calibre-ebook.com/)
+* [Send Anywhere](https://send-anywhere.com/)
+* [EasyJoin](https://easyjoin.net/)
+* [DevDocs](https://github.com/egoist/devdocs-desktop)
+* [Modern File Explorer](https://github.com/files-community/Files)
+* [FX Sound Enhancer](https://www.fxsound.com/)
+* [ShareX Screenshot tool](https://getsharex.com/)
+* [JellyFin Media Server](https://jellyfin.org/downloads/)
 
 ### This is just a list of tools that I personally use. For more, check out [Scott Hanselman's list of Ultimate Tools for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
