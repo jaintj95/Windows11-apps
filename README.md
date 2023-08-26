@@ -3,6 +3,7 @@ All essential apps to be installed on a fresh copy of Windows 11
 
 * [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 * [Chocolatey-GUI](https://docs.chocolatey.org/en-us/chocolatey-gui/setup/)
+* [Microsoft Dev Home](https://apps.microsoft.com/store/detail/dev-home-preview/9N8MHTPHNGVV)
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys/)
 * [WinToys Utility](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 * [Twinkle Tray Brightness Control](https://github.com/xanderfrangos/twinkle-tray)  
