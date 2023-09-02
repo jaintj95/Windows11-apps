@@ -22,4 +22,7 @@ All essential apps to be installed on a fresh copy of Windows 11
 * [WizTree](https://diskanalyzer.com/download)
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor)
 
-### This is just a list of tools that I personally use. For more, check out [Scott Hanselman's list of Ultimate Tools for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
+### This is just a list of tools that I personally use. For more, check out 
+* [Scott Hanselman's list of Ultimate Tools for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
+* [Reddit thread on essential Windows apps](https://old.reddit.com/r/Windows11/comments/15lhpe1/what_are_some_appstools_to_make_the_windows/)
+* https://gourav.io/blog/windows-free-apps
