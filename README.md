@@ -21,6 +21,7 @@ All essential apps to be installed on a fresh copy of Windows 11
 * [Modern File Explorer](https://github.com/files-community/Files)
 * [WizTree](https://diskanalyzer.com/download)
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor)
+* [RB Tray - minimize apps to tray](https://github.com/benbuck/rbtray)
 
 ### This is just a list of tools that I personally use. For more, check out 
 * [Scott Hanselman's list of Ultimate Tools for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
