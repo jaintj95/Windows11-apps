@@ -1,7 +1,7 @@
 # Windows11-apps
 All essential apps to be installed on a fresh copy of Windows 11
 
-* Steam Wallpaper Engine
+* [Steam Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
 * [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 * [Chocolatey-GUI](https://docs.chocolatey.org/en-us/chocolatey-gui/setup/)
 * [Microsoft Dev Home](https://apps.microsoft.com/store/detail/dev-home-preview/9N8MHTPHNGVV)
