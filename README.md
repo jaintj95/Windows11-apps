@@ -2,6 +2,7 @@
 All essential apps to be installed on a fresh copy of Windows 11
 
 * [WinGet UI](https://github.com/marticliment/WingetUI)
+* [StartAllBack](https://www.startallback.com/)
 * [Steam Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
 * [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys/)
